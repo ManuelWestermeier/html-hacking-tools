@@ -7,6 +7,9 @@ export default function NavBar() {
             <NavLink to="/">
                 Home
             </NavLink>
+            <NavLink to="/form-data-capture">
+                Form Data Capture
+            </NavLink>
         </nav>
     )
 }

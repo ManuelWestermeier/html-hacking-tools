@@ -4,7 +4,7 @@ export default function Home() {
     return (
         <div>
             <h1>
-                Home
+                HTML Hacking Tools.
             </h1>
         </div>
     )
